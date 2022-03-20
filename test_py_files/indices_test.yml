@@ -1,0 +1,13 @@
+train:
+- hgg/BraTS20_Training_002/*/30.png
+- hgg/BraTS20_Training_002/*/31.png
+- hgg/BraTS20_Training_002/*/34.png
+- hgg/BraTS20_Training_002/*/36.png
+- hgg/BraTS20_Training_002/*/44.png
+- hgg/BraTS20_Training_003/*/14.png
+- hgg/BraTS20_Training_003/*/23.png
+- hgg/BraTS20_Training_003/*/32.png
+val:
+- hgg/BraTS20_Training_004/*/43.png
+- hgg/BraTS20_Training_004/*/57.png
+- hgg/BraTS20_Training_004/*/58.png
